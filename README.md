@@ -38,6 +38,10 @@ return 0;
 }
 ```
 
+## OUTPUT1:
+
+![image](https://github.com/user-attachments/assets/b060df74-0f1f-4cf6-a528-1c1230169a30)
+
 ## CODE2:
 
 ```
@@ -73,6 +77,10 @@ return 0;
 
 }
 ```
+
+## OUTPUT2:
+
+![image](https://github.com/user-attachments/assets/85a7c15a-b64d-4ee1-8f9c-5efd86c148f6)
 
 ## Conclusion:
 
