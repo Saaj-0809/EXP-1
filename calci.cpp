@@ -29,3 +29,11 @@ cout<<"sum of given numbers="<<sum;
 return 0;
 
 }
+
+/* OUTPUT:
+enter first number-30
+enter second number33
+sum of given numbers=63
+--------------------------------
+Process exited after 35.33 seconds with return value 0
+Press any key to continue . . . */
