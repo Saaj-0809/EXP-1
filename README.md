@@ -7,7 +7,7 @@
 
 ```
 //Name: Saaj Mulik
-//PRN 23070123131
+//PRN: 23070123131
 //Class: EnTC B-2
 #include<iostream>
 
