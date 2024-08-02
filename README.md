@@ -23,7 +23,7 @@
 14. In environment variables, click on path and edit it. Click on new and paste the copied path of MinGW bin.
 15. Write a small program of Hello World to check if the program runs or not.
 
-## CODE:
+## CODE1:
 
 ```
 //Name: Saaj Mulik
@@ -35,6 +35,42 @@ int main(){
 std::cout<<"Hello World";
 
 return 0;
+}
+```
+
+## CODE2:
+
+```
+//Name: Saaj Mulik
+
+//PRN: 23070123109
+
+//Class: EnTC B-2
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+int num1, num2, num3, sum=0;
+
+cout<<"enter first number-";
+
+cin>>num1;
+
+cout<<"enter second number";
+
+cin>>num2;
+
+sum=num1+num2;
+
+cout<<"sum of given numbers="<<sum;
+
+return 0;
+
 }
 ```
 
